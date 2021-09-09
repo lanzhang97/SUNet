@@ -6,6 +6,9 @@ In order to protect the legal rights of copyright owners, the following copyrigh
 
 
 2.Any excerpt from this dataset or published related works must obtain the consent of the owner of the dataset and indicate the source; no one may reprint, extract, or use it for commercial purposes without authorization, otherwise he must bear all legal consequences;
+
+Our dataset can be used for free
+
 Please contact us if you have any questions: lan_zhangfirst@163.com
 
 datasets：
